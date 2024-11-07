@@ -1,0 +1,2 @@
+Hello,
+This is local Repository which created by "mkdir" cmd.
